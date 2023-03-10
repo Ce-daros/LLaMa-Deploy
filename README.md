@@ -34,7 +34,7 @@ Build cuda_11.7.r11.7/compiler.31442593_0
 
 ## 下载模型和创建虚拟环境
 
-[模型下载](magnet:?xt=urn:btih:b8287ebfa04f879b048d4d4404108cf3e8014352)
+模型下载 `magnet:?xt=urn:btih:b8287ebfa04f879b048d4d4404108cf3e8014352)`
 
 ### 创建与激活虚拟环境
 
