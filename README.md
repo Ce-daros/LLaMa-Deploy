@@ -1,4 +1,4 @@
-# Windows下LLaMa的本地部署
+# Windows 下 LLaMa 的本地部署
 
 ## 速查 Todo List
 
@@ -102,7 +102,7 @@ Loaded in 8.75 seconds
 
 ## 修改参数
 
-皆为`example.py`
+皆为 `example.py`
 
 + `prompts = [...` 对话内容
 + `max_seq_len: int = 1024,` 单次问答长度
